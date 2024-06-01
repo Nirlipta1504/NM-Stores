@@ -1,1 +1,1 @@
-# NM-Stores
+The project is an online clothing store created using only HTML, CSS, and JavaScript. It is designed to simulate the front-end experience of a real e-commerce website. This project covers various aspects of web development, including layout design, user interface, and basic interactivity without the need for a back-end server or database. This was a group project and I have uploaded my contributions here.
